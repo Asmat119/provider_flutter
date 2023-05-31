@@ -1,0 +1,198 @@
+{
+  "project_info": {
+    "project_number": "191278049238",
+    "project_id": "veergram-55008",
+    "storage_bucket": "veergram-55008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191278049238:android:8b229e21aa20d732e7e677",
+        "android_client_info": {
+          "package_name": "com.codearix.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191278049238-qeagopdbn1g5f5hpb21l37p5te8r3aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByys-3UOod2vqncV0nORXngiUYJnIUSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191278049238-1cmb4m64rllh399pjhf9lpd8ping8ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191278049238-qg2lc3h408kq8s2ve7cqvqg73kmmn270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.veergram.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191278049238:android:2d12212a5a189e7ce7e677",
+        "android_client_info": {
+          "package_name": "com.codearix.taxi.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191278049238-qeagopdbn1g5f5hpb21l37p5te8r3aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByys-3UOod2vqncV0nORXngiUYJnIUSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191278049238-1cmb4m64rllh399pjhf9lpd8ping8ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191278049238-qg2lc3h408kq8s2ve7cqvqg73kmmn270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.veergram.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191278049238:android:11ca860a6e21583ae7e677",
+        "android_client_info": {
+          "package_name": "com.codearix.veergram.handyman.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191278049238-qeagopdbn1g5f5hpb21l37p5te8r3aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByys-3UOod2vqncV0nORXngiUYJnIUSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191278049238-1cmb4m64rllh399pjhf9lpd8ping8ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191278049238-qg2lc3h408kq8s2ve7cqvqg73kmmn270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.veergram.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191278049238:android:f90971a1d42abea3e7e677",
+        "android_client_info": {
+          "package_name": "com.codearix.veergram.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191278049238-qeagopdbn1g5f5hpb21l37p5te8r3aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByys-3UOod2vqncV0nORXngiUYJnIUSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191278049238-1cmb4m64rllh399pjhf9lpd8ping8ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191278049238-qg2lc3h408kq8s2ve7cqvqg73kmmn270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.veergram.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191278049238:android:77dd31ebdfd139c2e7e677",
+        "android_client_info": {
+          "package_name": "com.codearix.veergram.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191278049238-d1d8uqs2odp5p6aqs35h5idk3saoct98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codearix.veergram.user",
+            "certificate_hash": "9976d0b559ea1be8dbcce39da73b4760f868e015"
+          }
+        },
+        {
+          "client_id": "191278049238-qeagopdbn1g5f5hpb21l37p5te8r3aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByys-3UOod2vqncV0nORXngiUYJnIUSE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191278049238-1cmb4m64rllh399pjhf9lpd8ping8ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191278049238-qg2lc3h408kq8s2ve7cqvqg73kmmn270.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codearix.veergram.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
